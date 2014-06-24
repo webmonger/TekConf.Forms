@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.0" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TekConf/TekConf.Android/packages.config">
+    <Files>
+      <File FileName="TekConf/TekConf/Pages/RootPage.cs" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf/Pages/ConferenceDetailPage.cs" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf/Models/Conference.cs" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf/Pages/ConferencesPage.cs" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf/UIElements/ConferenceListCell.cs" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf.iOS/Renderers/NameListStackLayoutRenderer.cs" Line="23" Column="2" />
+      <File FileName="TekConf/TekConf/UIElements/NameListContentView.cs" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf/ViewModels/ConferencesViewModel.cs" Line="25" Column="14" />
+      <File FileName="TekConf/TekConf/TekConf.csproj" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf.iOS/packages.config" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf/packages.config" Line="1" Column="1" />
+      <File FileName="TekConf/TekConf.Android/packages.config" Line="6" Column="12" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/rob/dev/TekConf.Forms/TekConf/TekConf/ViewModels/ConferencesViewModel.cs" line="23" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
